@@ -1,0 +1,2 @@
+detect:video_pub
+-DCATKIN_DEVEL_PREFIX=/home/chris/rosP/devel -DCMAKE_INSTALL_PREFIX=/home/chris/rosP/install -G Unix Makefiles

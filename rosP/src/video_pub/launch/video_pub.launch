@@ -1,0 +1,7 @@
+<launch>
+ 
+    <node pkg="video_pub" name="video_pub_node1" type="video_pub_node1"/>
+ 
+    <node pkg="detect" name="detect_node" type="detect_node"/>
+ 
+</launch>
